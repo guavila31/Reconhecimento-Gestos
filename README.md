@@ -27,5 +27,5 @@ Para executar o código, é necessario rodar o seguinte comando no terminal:
 
 ## Autores
 
-- [Gustavo Avila](https://github.com/guavila31)
+> [Gustavo Avila](https://github.com/guavila31)
 
